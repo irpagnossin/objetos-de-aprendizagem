@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="30"
+  height="30">
+
+  <style type="text/css">
+   <![CDATA[       
+    .fil0 {fill:none}
+    .fnt0 {font-weight:normal;font-size:1.2;font-family:'Arial'}
+   ]]>
+  </style> 
+  
+  <defs>
+      <g id="rotation.axis.group">
+          <line x1="-1" y1="0" x2="+1" y2="0" stroke="red" stroke-width="0.1"/>
+          <line x1="0" y1="-1" x2="0" y2="+1" stroke="red" stroke-width="0.1"/>
+          <circle r="0.5" fill="red"/>          
+      </g>
+      <image id="g" xlink:href="g.jpg" width="10" height="15"/>
+  </defs>
+
+  
+
+  <line id="base.line" x1="0" y1="15" x2="30" y2="15" stroke="gray" stroke-width="0.05"/>
+
+  <g id="box.0.group">
+    <use xlink:href="#g" x="10" y="5"/>
+    <rect id="box.0" fill="none" stroke="black" stroke-width="0.2" x="10" y="5" width="10" height="15"/>
+    <circle id="ref.pt.0" r="0.5" cx="10" cy="15" fill="black"/>
+  </g>
+  
+  <rect id="box.1" fill="yellow" stroke="black" stroke-width="0.2" x="11" y="11" width="10" height="10" opacity="0.2"/>
+  <circle id="ref.pt.1" r="0.5" fill="black" opacity="0.2"/>
+    
+  <text id="baseline.label" class="fnt0" x="0.5" y="14.9"></text>
+  <text id="ref.pt.label" class="fnt0" x="0.5" y="29"></text>
+  <text id="rotation.axis.label.text" class="fnt0" x="0.5" y="29"></text>
+       
+  <use id="rotation.axis" xlink:href="#rotation.axis.group" x="15" y="15"/>
+  
+  
+</svg>

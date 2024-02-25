@@ -1,0 +1,23 @@
+- A janela SVG não fica sempre perfeitamente ajustada ao JPanel do applet. Isto causa um erro ao converter a posição
+do mouse (em pixels) para o sistema de referência SVG.
+
+- java.util.ConcurrentModificationException
+  Esta é a exceção que está dando. O problema com certeza vem de eu estar modificando a fonte e o detector de duas
+  origens diferentes: com o mouse (atributo "transform":translate) e através da animação (atributo "transform":scale).
+  Menos mal: significa que consigo corrigir.
+  
+  Uma solução possível é criar um método synchronized. Outra é usar a cláusula synchronized sobre os objetos source
+  e detector.
+  
+2009.01.05
+  Encontrei na Internet que o problema é que qualquer modificação num objeto DOM (da árvore XML) deve ser feita
+  através do UpdateManager. Então, aparentemente o problema é que eu usei o MouseListener e o MouseMotionListener
+  do Swing para alterar a posição dos objetos selecionados pelo mouse. Mas isso eu devo fazer através do UpdateManager
+  do Batik. Só não sei ao certo como fazer. Acho que é da mesma forma que fiz com o evento "SVGLoad".
+  
+  Consegui resolver o problema de posicionamento das imagens SVG.
+  
+  Experimentar isso: http://osdir.com/ml/text.xml.batik.user/2003-06/msg00063.html
+  
+ 2009.01.07
+  Fazer alguns testes com o método addUpdateManagerListener do JSVGCanvas.

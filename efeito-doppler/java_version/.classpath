@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="BATIK/batik-anim.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-awt-util.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-bridge.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-codec.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-css.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-dom.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-ext.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-extension.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-gui-util.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-gvt.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-parser.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-script.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-svg-dom.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-svggen.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-swing.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-transcoder.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-util.jar"/>
+	<classpathentry kind="var" path="BATIK/batik-xml.jar"/>
+	<classpathentry kind="var" path="BATIK/js.jar"/>
+	<classpathentry kind="var" path="BATIK/pdf-transcoder.jar"/>
+	<classpathentry kind="var" path="BATIK/xalan-2.6.0.jar"/>
+	<classpathentry kind="var" path="BATIK/xerces_2_5_0.jar"/>
+	<classpathentry kind="var" path="BATIK/xml-apis-ext.jar"/>
+	<classpathentry kind="var" path="BATIK/xml-apis.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

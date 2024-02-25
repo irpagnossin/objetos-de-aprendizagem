@@ -1,0 +1,7 @@
+h1. CEPA's Java library
+
+A set of util classes commonly used by CEPA on the development of learning objects.
+
+h2. Dependencies
+
+* "Java3D":http://www.oracle.com/technetwork/java/javase/tech/index-jsp-138252.html

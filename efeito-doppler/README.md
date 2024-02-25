@@ -1,0 +1,1 @@
+Versão original em Java.

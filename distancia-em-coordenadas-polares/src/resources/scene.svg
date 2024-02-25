@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="30"
+  height="30">   
+   
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#AAA9A9;stroke-width:0.03}
+    .str1 {stroke:#969594;stroke-width:0.1;stroke-dasharray:0.3 0.2}   
+    .fil0 {fill:none}   
+    .fil1 {fill:#1F1A17;fill-rule:nonzero}
+    .fil5 {fill:#1F1A17}
+    .fnt0 {font-weight:normal;font-size:1;font-family:'Arial'}
+    .fnt1 {font-style:italic;font-weight:normal;font-size:1;font-family:'Times New Roman'}
+    .fnt2 {font-weight:normal;font-size:1;font-family:'Arial'}
+   ]]>
+  </style>   
+   
+  <defs>    
+    <g id="reference-frame">
+      <line class="fil0 str0" x1="-40" y1="0" x2="40" y2= "0" />
+      <text x="9.64557" y="1" class="fil5 fnt1">r</text>
+      <path class="fil1" d="M9.52151 0.1015l-9.50552 0.00822 0 -0.14056 9.50552 -0.00822 0 0.14056zm0.49448 -0.0707l-0.98356 0.42253 0.01275 -0.02637 0.01192 -0.02636 0.01109 -0.02637 0.01027 -0.02636 0.00945 -0.02636 0.00863 -0.02637 0.0078 -0.02636 0.00698 -0.02636 0.00615 -0.02636 0.00533 -0.02636 0.00451 -0.02636 0.00368 -0.02636 0.00286 -0.02635 0.00204 -0.02636 0.00121 -0.02636 0.00039 -0.02635 -0.00043 -0.02636 -0.00126 -0.02635 -0.00208 -0.02635 -0.00291 -0.02636 -0.00373 -0.02635 -0.00455 -0.02635 -0.00538 -0.02635 -0.0062 -0.02635 -0.00702 -0.02635 -0.00785 -0.02635 -0.00867 -0.02634 -0.00949 -0.02635 -0.01032 -0.02635 -0.01114 -0.02634 -0.01197 -0.02635 -0.01278 -0.02634 0 0 0.98428 0.42083z"/>      
+      <!--path class="fil1" d="M10.016 0.0308l-0.98784 0.42336 0 0 0.01282 -0.02646 0.01199 -0.02646 0.01116 -0.02646 0.01034 -0.02646 0.0095 -0.02646 0.00869 -0.02646 0.00785 -0.02646 0.00703 -0.02646 0.0062 -0.02646 0.00538 -0.02646 0.00454 -0.02646 0.00373 -0.02646 0.00289 -0.02646 0.00207 -0.02646 0.00124 -0.02646 0.00041 -0.02646 -0.00041 -0.02646 -0.00124 -0.02646 -0.00207 -0.02646 -0.00289 -0.02646 -0.00373 -0.02646 -0.00454 -0.02646 -0.00538 -0.02646 -0.0062 -0.02646 -0.00703 -0.02646 -0.00785 -0.02646 -0.00869 -0.02646 -0.0095 -0.02646 -0.01034 -0.02646 -0.01116 -0.02646 -0.01199 -0.02646 -0.01282 -0.02646 0.98784 0.42336zm-10.0706 0l0.07056 -0.07056 9.50354 0 0 0.14112 -9.50354 0 -0.07056 -0.07056zm0.07056 0.07056l-0.07056 0 0 -0.07056 0.07056 0.07056zm0.07056 -9.5741l0 9.50354 -0.14112 0 0 -9.50354 0.14112 0zm-0.07056 -0.49646l0.42336 0.98784 -0.02646 -0.01282 -0.02646 -0.01199 -0.02646 -0.01116 -0.02646 -0.01033 -0.02646 -0.00951 -0.02646 -0.00869 -0.02646 -0.00785 -0.02646 -0.00703 -0.02646 -0.0062 -0.02646 -0.00538 -0.02646 -0.00454 -0.02646 -0.00373 -0.02646 -0.00289 -0.02646 -0.00207 -0.02646 -0.00124 -0.02646 -0.00041 -0.02646 0.00041 -0.02646 0.00124 -0.02646 0.00207 -0.02646 0.00289 -0.02646 0.00373 -0.02646 0.00454 -0.02646 0.00538 -0.02646 0.0062 -0.02646 0.00703 -0.02646 0.00785 -0.02646 0.00869 -0.02646 0.0095 -0.02646 0.01034 -0.02646 0.01116 -0.02646 0.01199 -0.02646 0.01282 0 0 0.42336 -0.98784z"/-->             
+    </g>
+    <circle id="pA" r="0.3" stroke="black" stroke-width="0.05"/>
+    <circle id="pE" cx="10.5" r="0.3" stroke="black" stroke-width="0.05"/>
+    <image id="pC1" xlink:href="person.png" x="-1.5" y="-1.5" width="3" height="3"/>
+    <image id="pC2" xlink:href="person.png" x="-1.5" y="-1.5" width="3" height="3"/>
+  </defs>
+    
+  <!-- Imagem de fundo -->
+  <image id="background" xlink:href="background.jpg" width="30" height="30"/>
+
+  <!-- Linhas radiais que ligam (0,0) às amostras (1 e 2). -->
+  <line id="rLine1" stroke="rgb(159,0,173)" stroke-width="0.1" fill="none"/>
+  <line id="rLine2" stroke="green" stroke-width="0.1" fill="none"/>
+
+  <!-- Linhas verticais que ligam a amostra (1 e 2) ao eixo x. -->
+  <path id="arc1" stroke="rgb(159,0,173)" stroke-width="0.1" fill="none"/>
+  <path id="arc2" stroke="green" stroke-width="0.1" fill="none"/>
+
+  <!-- Linha que liga as duas amostras -->
+  <line id="dLine" stroke="red" stroke-width="0.1"/>
+
+  <!-- Sistema de referências mais as manetes de translação e rotação (ptoA e ptoB, respectivamente) -->
+  <g id="rframe">
+    <use id="frame" xlink:href="#reference-frame" x="10" y="20" />
+    <use id="ptoA" xlink:href="#pA" x="10" y="20" fill="blue" />
+    <use id="ptoE" xlink:href="#pE" x="10" y="20" fill="blue" />
+  </g>  
+
+  <!-- Amostras 1 e 2 -->
+  <use id="ptoC1" xlink:href="#pC1" x="18" y="12" />
+  <use id="ptoC2" xlink:href="#pC2" x="8" y="5" />
+
+  <!-- Rótulos dos pares coordenados (x,y) das amostras 1 e 2 -->
+  <text id="xyLabel1" class="fil5 fnt0"></text>
+  <text id="xyLabel2" class="fil5 fnt0"></text>
+
+  <!-- Rótulos das dicas para arrastar as manetes de translação e de rotação -->
+  <text id="ptoA-tip" x="2" y="28" class="fil5 fnt2"></text>
+  <text id="ptoE-tip" x="2" y="28" class="fil5 fnt2"></text>
+  <text id="samples-tip" x="2" y="28" class="fil5 fnt2"></text>
+
+  <!-- Rótulo da distância entre as amostras -->
+  <text id="dLabel" class="fil5 fnt2"></text>
+</svg>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="15mm" height="15mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 15 15"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    <!--.str0 {stroke:#1F1A17;stroke-width:0.0176}-->
+    .str0 {stroke:white;stroke-width:0.0176}
+    .str2 {stroke:#1F1A17;stroke-width:0.0176}
+    .str1 {stroke:white;stroke-width:0.0353}
+    .fil3 {fill:none}
+    .fil0 {fill:#1F1A17}
+    .fil2 {fill:#FFF500}
+    .fil4 {fill:#DA292A}
+    .fil1 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="7.5" y1="0" x2="7.5" y2="15">
+   <stop offset="0" style="stop-color:#005298"/>
+   <stop offset="1" style="stop-color:#75C5F0"/>
+  </linearGradient>
+  
+  <!-- Definição de uma célula -->
+  <rect id="cell.def" class="fil4 str0" x="-0.5" y="-0.5" width="1" height="1" opacity="0.8"/>
+  
+  <!-- Definição da coordenada de uma célula-da-grade -->
+  <circle id="cellPos.def" class="fil0" r="0"/>
+  
+ </defs>
+ 
+  <!-- 50 posições pré-definidas das células: os centros das células-da-grade -->
+  <g>
+    <use id="cellPos26" xlink:href="#cellPos.def" x=" 9.5"    y="6"/>
+    <use id="cellPos27" xlink:href="#cellPos.def" x="10.5"    y="6"/>
+    <use id="cellPos28" xlink:href="#cellPos.def" x="11.5"    y="6"/>
+    <use id="cellPos29" xlink:href="#cellPos.def" x="12.5"    y="6"/>  
+    <use id="cellPos30" xlink:href="#cellPos.def" x=" 9.5"    y="7"/>
+    <use id="cellPos31" xlink:href="#cellPos.def" x="10.5"    y="7"/>
+    <use id="cellPos32" xlink:href="#cellPos.def" x="11.5"    y="7"/>
+    <use id="cellPos33" xlink:href="#cellPos.def" x="12.5"    y="7"/>  
+    <use id="cellPos34" xlink:href="#cellPos.def" x=" 9.5"    y="8"/>
+    <use id="cellPos35" xlink:href="#cellPos.def" x="10.5"    y="8"/>
+    <use id="cellPos36" xlink:href="#cellPos.def" x="11.5"    y="8"/>
+    <use id="cellPos37" xlink:href="#cellPos.def" x="12.5"    y="8"/>
+    <use id="cellPos38" xlink:href="#cellPos.def" x=" 9.5"    y="9"/>
+    <use id="cellPos39" xlink:href="#cellPos.def" x="10.5"    y="9"/>
+    <use id="cellPos40" xlink:href="#cellPos.def" x="11.5"    y="9"/>
+    <use id="cellPos41" xlink:href="#cellPos.def" x="12.5"    y="9"/>  
+    <use id="cellPos42" xlink:href="#cellPos.def" x="6.5"     y="10"/>
+    <use id="cellPos43" xlink:href="#cellPos.def" x="7.5"     y="10"/>
+    <use id="cellPos44" xlink:href="#cellPos.def" x="8.5"     y="10"/>  
+    <use id="cellPos45" xlink:href="#cellPos.def" x="6.5"     y="11"/>
+    <use id="cellPos46" xlink:href="#cellPos.def" x="7.5"     y="11"/>
+    <use id="cellPos47" xlink:href="#cellPos.def" x="8.5"     y="11"/>  
+    <use id="cellPos48" xlink:href="#cellPos.def" x="6.5"     y="12"/>
+    <use id="cellPos49" xlink:href="#cellPos.def" x="7.5"     y="12"/>
+    <use id="cellPos50" xlink:href="#cellPos.def" x="8.5"     y="12"/>  
+    <use id="cellPos21" xlink:href="#cellPos.def" x="2.69986" y="6.39996"/>  
+    <use id="cellPos22" xlink:href="#cellPos.def" x="3.49976" y="6.99986"/>
+    <use id="cellPos23" xlink:href="#cellPos.def" x="4.29966" y="7.59976"/>
+    <use id="cellPos24" xlink:href="#cellPos.def" x="5.09956" y="8.19966"/>
+    <use id="cellPos25" xlink:href="#cellPos.def" x="5.89946" y="8.79956"/>
+    <use id="cellPos16" xlink:href="#cellPos.def" x="3.29976" y="5.59996"/>
+    <use id="cellPos17" xlink:href="#cellPos.def" x="4.09966" y="6.19986"/>
+    <use id="cellPos18" xlink:href="#cellPos.def" x="4.89956" y="6.79976"/>
+    <use id="cellPos19" xlink:href="#cellPos.def" x="5.69946" y="7.39966"/>
+    <use id="cellPos20" xlink:href="#cellPos.def" x="6.49936" y="7.99956"/>
+    <use id="cellPos11" xlink:href="#cellPos.def" x="3.89966" y="4.79996"/>
+    <use id="cellPos12" xlink:href="#cellPos.def" x="4.69956" y="5.39986"/>
+    <use id="cellPos13" xlink:href="#cellPos.def" x="5.49946" y="5.99976"/>
+    <use id="cellPos14" xlink:href="#cellPos.def" x="6.29936" y="6.59966"/>
+    <use id="cellPos15" xlink:href="#cellPos.def" x="7.09926" y="7.19956"/>
+    <use id="cellPos6"  xlink:href="#cellPos.def" x="4.49956" y="3.99996"/>
+    <use id="cellPos7"  xlink:href="#cellPos.def" x="5.29946" y="4.59986"/>
+    <use id="cellPos8"  xlink:href="#cellPos.def" x="6.09936" y="5.19976"/>
+    <use id="cellPos9"  xlink:href="#cellPos.def" x="6.89926" y="5.79966"/>
+    <use id="cellPos10" xlink:href="#cellPos.def" x="7.69916" y="6.39956"/>
+    <use id="cellPos1"  xlink:href="#cellPos.def" x="5.09946" y="3.19996"/>
+    <use id="cellPos2"  xlink:href="#cellPos.def" x="5.89936" y="3.79986"/>
+    <use id="cellPos3"  xlink:href="#cellPos.def" x="6.69926" y="4.39976"/>
+    <use id="cellPos4"  xlink:href="#cellPos.def" x="7.49916" y="4.99966"/>
+    <use id="cellPos5"  xlink:href="#cellPos.def" x="8.29906" y="5.59956"/>
+  </g> 
+
+  <!-- O plano de fundo (decoração apenas) -->
+  <rect class="fil1" width="15" height="15"/>
+   
+ 
+ <g id="triangle.group">
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <polygon id="triangle" class="fil2" points="6,9.5 9,5.5 9,9.5 "/>
+  <polyline class="fil3 str2" points="8.7255,9.5 8.7255,9.2255 9,9.2255 "/>
+  <circle class="fil0" cx="8.8627" cy="9.3627" r="0.0155"/>
+ </g>
+ 
+ <g id="grid" opacity="0">
+  <metadata id="CorelCorpID_3Corel-Layer"/>
+  <polygon id="square3x3" class="fil3 str1" points="6,12.5 6,9.5 9,9.5 9,12.5 "/>
+  <polygon id="square4x4" class="fil3 str1" points="9,9.5 9,5.5 13,5.5 13,9.5 "/>  
+  <path id="grid5x5" class="fil3 str1" d="M2.8 7.1l2.9999 -4m-1.4 0.2l4.0001 3m-4.6001 -2.2l4.0001 3m-4.6 -2.2l4 3m-4.6 -2.2l4 3m-1.4 0.2l3 -4m-3.8 3.4l2.9999 -4m-3.7999 3.4l2.9999 -4"/>
+  <path id="grid4x4" class="fil3 str1" d="M9 6.5l4 0m-1 -1l0 4m-1 -4l0 4m-1 -4l0 4m-1 -1l4 0m-4 -1l4 0"/>
+  <path id="grid3x3" class="fil3 str1" d="M6 10.5l3 0m-2 -1l0 3m1 0l0 -3m-2 2l3 0"/>
+  <polygon id="square5x5" class="fil3 str1"  points="6,9.5 9,5.5 4.9999,2.5 2,6.5 "/>
+ </g>
+  
+  <g id="background">
+    <rect width="15" height="15" fill="white" opacity="0"/>
+  </g> 
+    
+ <g id="cells.group" opacity="0">  
+  <use id="cell1"  xlink:href="#cell.def" x=" 9.5" y=" 6.0"/>
+  <use id="cell2"  xlink:href="#cell.def" x="10.5" y=" 6.0"/>
+  <use id="cell3"  xlink:href="#cell.def" x="11.5" y=" 6.0"/>
+  <use id="cell4"  xlink:href="#cell.def" x="12.5" y=" 6.0"/>  
+  <use id="cell5"  xlink:href="#cell.def" x=" 9.5" y=" 7.0"/>
+  <use id="cell6"  xlink:href="#cell.def" x="10.5" y=" 7.0"/>
+  <use id="cell7"  xlink:href="#cell.def" x="11.5" y=" 7.0"/>
+  <use id="cell8"  xlink:href="#cell.def" x="12.5" y=" 7.0"/>
+  <use id="cell9"  xlink:href="#cell.def" x=" 9.5" y=" 8.0"/>
+  <use id="cell10" xlink:href="#cell.def" x="10.5" y=" 8.0"/>
+  <use id="cell11" xlink:href="#cell.def" x="11.5" y=" 8.0"/>
+  <use id="cell12" xlink:href="#cell.def" x="12.5" y=" 8.0"/>
+  <use id="cell13" xlink:href="#cell.def" x=" 9.5" y=" 9.0"/>
+  <use id="cell14" xlink:href="#cell.def" x="10.5" y=" 9.0"/>
+  <use id="cell15" xlink:href="#cell.def" x="11.5" y=" 9.0"/>
+  <use id="cell16" xlink:href="#cell.def" x="12.5" y=" 9.0"/>
+  <use id="cell17" xlink:href="#cell.def" x=" 6.5" y="10.0"/>
+  <use id="cell18" xlink:href="#cell.def" x=" 7.5" y="10.0"/>
+  <use id="cell19" xlink:href="#cell.def" x=" 8.5" y="10.0"/>
+  <use id="cell20" xlink:href="#cell.def" x=" 6.5" y="11.0"/>
+  <use id="cell21" xlink:href="#cell.def" x=" 7.5" y="11.0"/>
+  <use id="cell22" xlink:href="#cell.def" x=" 8.5" y="11.0"/>
+  <use id="cell23" xlink:href="#cell.def" x=" 6.5" y="12.0"/>
+  <use id="cell24" xlink:href="#cell.def" x=" 7.5" y="12.0"/>
+  <use id="cell25" xlink:href="#cell.def" x=" 8.5" y="12.0"/>
+ </g>
+
+
+ 
+</svg>
